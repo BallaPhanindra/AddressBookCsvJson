@@ -1,0 +1,20 @@
+[
+    {
+        "name":"Balla",
+        "phone": "9898878776",
+        "email": "ph@gmail.com",
+        "address": "Prashanth Nagar",
+        "city": "Siddipet",
+        "state": "TS",
+        "zip": "502103"
+    },
+    {
+        "name": "Dravid",
+        "phone": "9898989898",
+        "email": "dwightkschrute@example.com",
+        "address": "Rural Rt. 6",
+        "city": "Honesdale",
+        "state": "Pennsylvania",
+        "zip": "18431"
+    }
+]
