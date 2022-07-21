@@ -1,8 +1,8 @@
 [
     {
-        "name":"Balla",
-        "phone": "9898878776",
-        "email": "ph@gmail.com",
+        "name": "Balla",
+        "phone": "9876543210",
+        "email": "pha@gmail.com",
         "address": "Prashanth Nagar",
         "city": "Siddipet",
         "state": "TS",
@@ -10,11 +10,11 @@
     },
     {
         "name": "Dravid",
-        "phone": "9898989898",
-        "email": "dwightkschrute@example.com",
-        "address": "Rural Rt. 6",
-        "city": "Honesdale",
-        "state": "Pennsylvania",
-        "zip": "18431"
+        "phone": "9898878776",
+        "email": "Dravid@bcci.com",
+        "address": "ElectronicWada",
+        "city": "Bangalore",
+        "state": "KN",
+        "zip": "565455"
     }
 ]
